@@ -25,5 +25,5 @@ Exemplo:
 :root {
     --cor-verde: #28a745;
 }
-
+Tio Patinhas
 <img src="https://ogimg.infoglobo.com.br/economia/22091628-7d8-ff1/FT1086A/34932043_SX-Rio-de-Janeiro-RJ-06-06-2012-Tio-Patinhas-FotoReproducao.jpg"></img>
